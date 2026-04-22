@@ -57,3 +57,5 @@ cor.test(data$celebrity_association,
 
 options(scipen = 999)
 ```
+#Findings
+We found that celebrity association with beauty products is positively associated with consumers' purchase intention, ρ = 0.69, p < 0.001.
